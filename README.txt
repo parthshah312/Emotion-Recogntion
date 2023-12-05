@@ -1,6 +1,6 @@
-1. emotion_recognnization.py : All python codes merge in a single program
+Script 1. emotion_recognization.py:  In this file have pre processing part as well as all models architecture(main_model,varient_1,varient_2) and K-fold validation on main model
 
-2. emotion_recognization_apllicationmode.py : Application python file which loads the trained model and predict new testing data emotion classes
+Script 2. emotion_recognization_ApplicationMode.py : In this file have Application mode as this file load saved model and pridict classes for input image and all bias analysis also there
 
 Steps:
 	Add dataset to your drive
